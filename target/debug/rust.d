@@ -1,0 +1,1 @@
+d:\Users\Bill\Documents\Bioinformatics\Rosalind\rust\target\debug\rust.exe: d:\Users\Bill\Documents\Bioinformatics\Rosalind\rust\src\dna_count.rs d:\Users\Bill\Documents\Bioinformatics\Rosalind\rust\src\main.rs
